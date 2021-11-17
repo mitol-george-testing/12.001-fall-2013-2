@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d34d6b3-d7ac-312d-6f78-bcfbe22b99a0",
+      "57f6478a-e1e6-8563-1f49-311081e7746d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Geology",
+  "course_description": "Geology is the core discipline of the earth sciences and encompasses many different phenomena, including plate tectonics and mountain building, volcanoes and earthquakes, and the long-term evolution of Earth\u2019s atmosphere, surface and life. Because of the ever-increasing demand for resources, the growing exposure to natural hazards, and the changing climate, geology is of considerable societal relevance. This course introduces students to the basics of geology. Through a combination of lectures, labs, and field observations, we will address topics ranging from mineral and rock identification to the origin of the continents, from geologic mapping to plate tectonics, and from erosion by rivers and glaciers to the history of life.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.001",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Image Gallery"
+  ],
+  "title": "Course Metadata"
+}
